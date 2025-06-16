@@ -1,0 +1,229 @@
+Date,Description,Amount,Type,Category,Merchant Type,Merchant Name,Payment Method
+05/06/2025,Wise Transfer,1111.49,Income,Income,Bank Transfer,Wise Transfer,Bank Transfer
+28/02/2025,Wise Transfer,1103.24,Income,Income,Bank Transfer,Wise Transfer,Bank Transfer
+29/04/2025,Transfer from Dad,1090.05,Income,Income,Bank Transfer,Transfer from Dad,Bank Transfer
+05/03/2025,Transfer from Dad,1079.78,Income,Income,Bank Transfer,Transfer from Dad,Bank Transfer
+14/04/2025,Transfer from Mom,855.26,Income,Income,Bank Transfer,Transfer from Mom,Bank Transfer
+10/02/2025,Transfer from Dad,854.75,Income,Income,Bank Transfer,Transfer from Dad,Bank Transfer
+13/06/2025,Wise Transfer,799.97,Income,Income,Bank Transfer,Wise Transfer,Bank Transfer
+01/01/2025,Transfer from Dad,783.33,Income,Income,Bank Transfer,Transfer from Dad,Bank Transfer
+21/02/2025,Transfer from Dad,769.77,Income,Income,Bank Transfer,Transfer from Dad,Bank Transfer
+14/05/2025,Transfer from Mom,600.75,Income,Income,Bank Transfer,Transfer from Mom,Bank Transfer
+22/05/2025,Transfer from Mom,546.05,Income,Income,Bank Transfer,Transfer from Mom,Bank Transfer
+25/04/2025,Transfer from Mom,487.68,Income,Income,Bank Transfer,Transfer from Mom,Bank Transfer
+03/03/2025,Wise Transfer,479.68,Income,Income,Bank Transfer,Wise Transfer,Bank Transfer
+03/01/2025,AliExpress,-3.12,Expense,Online Purchase,Online Purchase,AliExpress,Apple Pay
+21/04/2025,100 Montaditos,-3.17,Expense,Restaurant,Restaurant,100 Montaditos,Google Pay
+09/01/2025,Amazon,-3.18,Expense,Online Purchase,Online Purchase,Amazon,Apple Pay
+03/02/2025,Bolt,-3.23,Expense,Transport,Transport,Bolt,Apple Pay
+30/05/2025,Coolmod,-3.4,Expense,Online Purchase,Online Purchase,Coolmod,Google Pay
+22/03/2025,Apple App Store,-3.44,Expense,Entertainment,Entertainment,Apple App Store,Apple Pay
+13/03/2025,100 Montaditos,-4.49,Expense,Restaurant,Restaurant,100 Montaditos,Google Pay
+25/02/2025,Lidl,-4.64,Expense,Groceries,Groceries,Lidl,Apple Pay
+02/06/2025,Apple App Store,-4.68,Expense,Entertainment,Entertainment,Apple App Store,Google Pay
+10/05/2025,Steam,-5.22,Expense,Entertainment,Entertainment,Steam,Apple Pay
+30/05/2025,Movistar,-5.64,Expense,Utilities,Utilities,Movistar,Google Pay
+03/02/2025,100 Montaditos,-5.66,Expense,Restaurant,Restaurant,100 Montaditos,Google Pay
+10/03/2025,Dow Jones Bar,-6.73,Expense,Bar,Bar,Dow Jones Bar,Google Pay
+29/01/2025,TMB Barcelona,-6.92,Expense,Transport,Transport,TMB Barcelona,Google Pay
+02/02/2025,O’Tacos,-7.6,Expense,Restaurant,Restaurant,O’Tacos,Card
+17/03/2025,Uber,-7.62,Expense,Transport,Transport,Uber,Apple Pay
+29/03/2025,Adobe,-7.96,Expense,Subscription,Subscription,Adobe,Google Pay
+07/03/2025,Netflix,-7.96,Expense,Subscription,Subscription,Netflix,Google Pay
+17/03/2025,Viena,-8.38,Expense,Restaurant,Restaurant,Viena,Apple Pay
+16/05/2025,Reby,-8.66,Expense,Transport,Transport,Reby,Card
+28/03/2025,Amazon,-9.21,Expense,Online Purchase,Online Purchase,Amazon,Card
+13/03/2025,O’Tacos,-9.39,Expense,Restaurant,Restaurant,O’Tacos,Google Pay
+23/03/2025,Endesa,-9.74,Expense,Utilities,Utilities,Endesa,Google Pay
+30/05/2025,TMB Barcelona,-9.81,Expense,Transport,Transport,TMB Barcelona,Google Pay
+12/02/2025,Lidl,-9.92,Expense,Groceries,Groceries,Lidl,Card
+23/05/2025,Endesa,-10.2,Expense,Utilities,Utilities,Endesa,Apple Pay
+20/03/2025,Movistar,-10.76,Expense,Utilities,Utilities,Movistar,Google Pay
+15/01/2025,Apple App Store,-10.79,Expense,Entertainment,Entertainment,Apple App Store,Google Pay
+09/02/2025,Google Play,-10.81,Expense,Entertainment,Entertainment,Google Play,Google Pay
+31/01/2025,Netflix,-11.37,Expense,Subscription,Subscription,Netflix,Card
+03/06/2025,O’Tacos,-11.45,Expense,Restaurant,Restaurant,O’Tacos,Google Pay
+22/03/2025,Lidl,-12.12,Expense,Groceries,Groceries,Lidl,Card
+01/04/2025,Nevermind,-12.22,Expense,Bar,Bar,Nevermind,Card
+19/04/2025,Canva Pro,-12.23,Expense,Subscription,Subscription,Canva Pro,Apple Pay
+23/02/2025,TMB Barcelona,-12.4,Expense,Transport,Transport,TMB Barcelona,Apple Pay
+05/06/2025,Amazon,-12.64,Expense,Online Purchase,Online Purchase,Amazon,Google Pay
+31/03/2025,ChatGPT Pro,-12.83,Expense,Subscription,Subscription,ChatGPT Pro,Apple Pay
+06/04/2025,Carrefour,-13.39,Expense,Groceries,Groceries,Carrefour,Google Pay
+09/02/2025,Viena,-13.79,Expense,Restaurant,Restaurant,Viena,Apple Pay
+21/04/2025,100 Montaditos,-14.24,Expense,Restaurant,Restaurant,100 Montaditos,Card
+04/01/2025,Movistar,-15.25,Expense,Utilities,Utilities,Movistar,Card
+04/01/2025,Endesa,-15.4,Expense,Utilities,Utilities,Endesa,Apple Pay
+06/04/2025,Carrefour,-15.69,Expense,Groceries,Groceries,Carrefour,Card
+07/01/2025,AliExpress,-16.06,Expense,Online Purchase,Online Purchase,AliExpress,Card
+24/02/2025,ChatGPT Pro,-16.19,Expense,Subscription,Subscription,ChatGPT Pro,Apple Pay
+15/04/2025,Dow Jones Bar,-16.25,Expense,Bar,Bar,Dow Jones Bar,Google Pay
+11/01/2025,Dow Jones Bar,-16.46,Expense,Bar,Bar,Dow Jones Bar,Apple Pay
+08/02/2025,Endesa,-16.77,Expense,Utilities,Utilities,Endesa,Apple Pay
+20/04/2025,Casa Carmen,-16.78,Expense,Restaurant,Restaurant,Casa Carmen,Card
+07/01/2025,YouTube Premium,-17.24,Expense,Subscription,Subscription,YouTube Premium,Apple Pay
+23/04/2025,Coolmod,-17.32,Expense,Online Purchase,Online Purchase,Coolmod,Google Pay
+27/02/2025,Coolmod,-17.66,Expense,Online Purchase,Online Purchase,Coolmod,Card
+30/04/2025,Endesa,-18.22,Expense,Utilities,Utilities,Endesa,Apple Pay
+17/02/2025,Spotify,-18.58,Expense,Subscription,Subscription,Spotify,Card
+17/03/2025,Espit Chupitos,-19.06,Expense,Bar,Bar,Espit Chupitos,Google Pay
+05/04/2025,Canva Pro,-19.1,Expense,Subscription,Subscription,Canva Pro,Card
+05/05/2025,Endesa,-19.4,Expense,Utilities,Utilities,Endesa,Apple Pay
+16/03/2025,Viena,-19.49,Expense,Restaurant,Restaurant,Viena,Card
+09/03/2025,Uber,-19.54,Expense,Transport,Transport,Uber,Apple Pay
+19/02/2025,Uber,-20.48,Expense,Transport,Transport,Uber,Card
+03/01/2025,TMB Barcelona,-20.76,Expense,Transport,Transport,TMB Barcelona,Apple Pay
+15/04/2025,Adobe,-21.07,Expense,Subscription,Subscription,Adobe,Apple Pay
+23/02/2025,Apple App Store,-21.22,Expense,Entertainment,Entertainment,Apple App Store,Google Pay
+15/01/2025,Movistar,-22.08,Expense,Utilities,Utilities,Movistar,Apple Pay
+06/03/2025,Carrefour,-22.32,Expense,Groceries,Groceries,Carrefour,Apple Pay
+12/05/2025,Viena,-22.4,Expense,Restaurant,Restaurant,Viena,Apple Pay
+13/03/2025,Google Play,-22.49,Expense,Entertainment,Entertainment,Google Play,Google Pay
+20/03/2025,Canva Pro,-22.61,Expense,Subscription,Subscription,Canva Pro,Google Pay
+14/01/2025,Carrefour,-22.69,Expense,Groceries,Groceries,Carrefour,Card
+25/04/2025,Uber,-22.78,Expense,Transport,Transport,Uber,Card
+01/03/2025,Endesa,-23.17,Expense,Utilities,Utilities,Endesa,Card
+12/04/2025,TMB Barcelona,-23.36,Expense,Transport,Transport,TMB Barcelona,Google Pay
+22/05/2025,YouTube Premium,-23.52,Expense,Subscription,Subscription,YouTube Premium,Apple Pay
+25/01/2025,AliExpress,-23.75,Expense,Online Purchase,Online Purchase,AliExpress,Google Pay
+16/01/2025,Dow Jones Bar,-24.07,Expense,Bar,Bar,Dow Jones Bar,Google Pay
+23/05/2025,Apple iCloud,-25.11,Expense,Subscription,Subscription,Apple iCloud,Card
+01/05/2025,Coolmod,-25.13,Expense,Online Purchase,Online Purchase,Coolmod,Card
+20/02/2025,Adobe,-25.14,Expense,Subscription,Subscription,Adobe,Google Pay
+04/04/2025,Casa Carmen,-25.29,Expense,Restaurant,Restaurant,Casa Carmen,Card
+02/01/2025,YouTube Premium,-25.3,Expense,Subscription,Subscription,YouTube Premium,Apple Pay
+29/04/2025,Movistar,-25.33,Expense,Utilities,Utilities,Movistar,Apple Pay
+04/04/2025,Movistar,-25.52,Expense,Utilities,Utilities,Movistar,Card
+31/01/2025,Carrefour,-25.97,Expense,Groceries,Groceries,Carrefour,Card
+01/06/2025,Amazon,-27.08,Expense,Online Purchase,Online Purchase,Amazon,Google Pay
+12/01/2025,Apple App Store,-27.28,Expense,Entertainment,Entertainment,Apple App Store,Card
+13/06/2025,Dow Jones Bar,-27.73,Expense,Bar,Bar,Dow Jones Bar,Apple Pay
+19/05/2025,Bolt,-27.75,Expense,Transport,Transport,Bolt,Google Pay
+19/01/2025,Lidl,-28.14,Expense,Groceries,Groceries,Lidl,Apple Pay
+22/01/2025,Dow Jones Bar,-28.17,Expense,Bar,Bar,Dow Jones Bar,Card
+01/01/2025,Nevermind,-28.36,Expense,Bar,Bar,Nevermind,Google Pay
+14/02/2025,TMB Barcelona,-28.38,Expense,Transport,Transport,TMB Barcelona,Card
+11/04/2025,Condis,-28.81,Expense,Groceries,Groceries,Condis,Apple Pay
+29/05/2025,Google Play,-28.87,Expense,Entertainment,Entertainment,Google Play,Google Pay
+18/05/2025,Amazon,-29.02,Expense,Online Purchase,Online Purchase,Amazon,Card
+01/02/2025,Apple App Store,-29.18,Expense,Entertainment,Entertainment,Apple App Store,Google Pay
+21/02/2025,Uber,-29.28,Expense,Transport,Transport,Uber,Apple Pay
+21/05/2025,Viena,-29.46,Expense,Restaurant,Restaurant,Viena,Card
+10/02/2025,AliExpress,-29.99,Expense,Online Purchase,Online Purchase,AliExpress,Apple Pay
+05/01/2025,Lidl,-30.13,Expense,Groceries,Groceries,Lidl,Apple Pay
+25/05/2025,Carrefour,-30.31,Expense,Groceries,Groceries,Carrefour,Google Pay
+16/05/2025,TMB Barcelona,-30.76,Expense,Transport,Transport,TMB Barcelona,Apple Pay
+26/03/2025,Carrefour,-30.78,Expense,Groceries,Groceries,Carrefour,Apple Pay
+02/01/2025,Dow Jones Bar,-30.79,Expense,Bar,Bar,Dow Jones Bar,Apple Pay
+02/03/2025,100 Montaditos,-30.8,Expense,Restaurant,Restaurant,100 Montaditos,Card
+17/01/2025,AliExpress,-31.42,Expense,Online Purchase,Online Purchase,AliExpress,Apple Pay
+21/01/2025,Apple App Store,-31.86,Expense,Entertainment,Entertainment,Apple App Store,Apple Pay
+14/01/2025,Movistar,-31.89,Expense,Utilities,Utilities,Movistar,Apple Pay
+26/05/2025,O’Tacos,-31.92,Expense,Restaurant,Restaurant,O’Tacos,Google Pay
+24/02/2025,Endesa,-32.04,Expense,Utilities,Utilities,Endesa,Card
+07/04/2025,Mercadona,-32.29,Expense,Groceries,Groceries,Mercadona,Google Pay
+20/04/2025,Endesa,-32.71,Expense,Utilities,Utilities,Endesa,Card
+10/04/2025,Dow Jones Bar,-32.75,Expense,Bar,Bar,Dow Jones Bar,Card
+15/02/2025,Uber,-32.85,Expense,Transport,Transport,Uber,Card
+11/04/2025,Google Play,-32.92,Expense,Entertainment,Entertainment,Google Play,Google Pay
+04/02/2025,Condis,-33.08,Expense,Groceries,Groceries,Condis,Apple Pay
+03/02/2025,Movistar,-33.08,Expense,Utilities,Utilities,Movistar,Apple Pay
+12/02/2025,AliExpress,-33.13,Expense,Online Purchase,Online Purchase,AliExpress,Card
+11/02/2025,YouTube Premium,-33.63,Expense,Subscription,Subscription,YouTube Premium,Apple Pay
+07/06/2025,Mercadona,-34.54,Expense,Groceries,Groceries,Mercadona,Apple Pay
+18/04/2025,Lidl,-34.6,Expense,Groceries,Groceries,Lidl,Card
+20/01/2025,Coolmod,-34.9,Expense,Online Purchase,Online Purchase,Coolmod,Google Pay
+07/03/2025,O’Tacos,-35.29,Expense,Restaurant,Restaurant,O’Tacos,Card
+13/02/2025,Reby,-35.67,Expense,Transport,Transport,Reby,Card
+09/06/2025,100 Montaditos,-35.94,Expense,Restaurant,Restaurant,100 Montaditos,Card
+22/05/2025,Lidl,-36.15,Expense,Groceries,Groceries,Lidl,Card
+14/03/2025,AliExpress,-36.53,Expense,Online Purchase,Online Purchase,AliExpress,Google Pay
+02/05/2025,Google Play,-36.9,Expense,Entertainment,Entertainment,Google Play,Google Pay
+11/02/2025,Condis,-37.04,Expense,Groceries,Groceries,Condis,Google Pay
+12/03/2025,Viena,-37.2,Expense,Restaurant,Restaurant,Viena,Card
+07/01/2025,AliExpress,-37.32,Expense,Online Purchase,Online Purchase,AliExpress,Apple Pay
+03/04/2025,TMB Barcelona,-37.76,Expense,Transport,Transport,TMB Barcelona,Google Pay
+10/05/2025,Adobe,-38.57,Expense,Subscription,Subscription,Adobe,Card
+09/03/2025,Google Play,-38.82,Expense,Entertainment,Entertainment,Google Play,Google Pay
+30/01/2025,Dow Jones Bar,-39.22,Expense,Bar,Bar,Dow Jones Bar,Google Pay
+04/02/2025,TMB Barcelona,-39.87,Expense,Transport,Transport,TMB Barcelona,Google Pay
+26/05/2025,Adobe,-39.93,Expense,Subscription,Subscription,Adobe,Card
+01/01/2025,Viena,-40.26,Expense,Restaurant,Restaurant,Viena,Apple Pay
+10/03/2025,Google Play,-40.51,Expense,Entertainment,Entertainment,Google Play,Apple Pay
+06/03/2025,Movistar,-40.83,Expense,Utilities,Utilities,Movistar,Card
+22/01/2025,100 Montaditos,-41.84,Expense,Restaurant,Restaurant,100 Montaditos,Apple Pay
+12/01/2025,Dow Jones Bar,-41.99,Expense,Bar,Bar,Dow Jones Bar,Google Pay
+04/04/2025,Movistar,-42.03,Expense,Utilities,Utilities,Movistar,Card
+10/01/2025,Viena,-42.19,Expense,Restaurant,Restaurant,Viena,Card
+18/02/2025,Apple App Store,-42.69,Expense,Entertainment,Entertainment,Apple App Store,Apple Pay
+07/04/2025,Coolmod,-42.73,Expense,Online Purchase,Online Purchase,Coolmod,Card
+10/02/2025,Condis,-43.23,Expense,Groceries,Groceries,Condis,Apple Pay
+06/02/2025,Apple App Store,-43.41,Expense,Entertainment,Entertainment,Apple App Store,Apple Pay
+24/01/2025,Endesa,-43.78,Expense,Utilities,Utilities,Endesa,Google Pay
+08/02/2025,TMB Barcelona,-43.92,Expense,Transport,Transport,TMB Barcelona,Google Pay
+27/05/2025,Coolmod,-44.86,Expense,Online Purchase,Online Purchase,Coolmod,Google Pay
+01/05/2025,ChatGPT Pro,-45.35,Expense,Subscription,Subscription,ChatGPT Pro,Card
+23/04/2025,Mercadona,-45.49,Expense,Groceries,Groceries,Mercadona,Card
+17/03/2025,Steam,-46.18,Expense,Entertainment,Entertainment,Steam,Google Pay
+20/04/2025,Endesa,-46.38,Expense,Utilities,Utilities,Endesa,Apple Pay
+06/01/2025,Movistar,-46.62,Expense,Utilities,Utilities,Movistar,Card
+27/03/2025,AliExpress,-46.72,Expense,Online Purchase,Online Purchase,AliExpress,Card
+31/05/2025,Luz de Gas,-46.88,Expense,Bar,Bar,Luz de Gas,Apple Pay
+16/04/2025,Bolt,-47.02,Expense,Transport,Transport,Bolt,Apple Pay
+05/01/2025,AliExpress,-47.85,Expense,Online Purchase,Online Purchase,AliExpress,Apple Pay
+10/05/2025,Lidl,-48.06,Expense,Groceries,Groceries,Lidl,Google Pay
+17/04/2025,Casa Carmen,-48.42,Expense,Restaurant,Restaurant,Casa Carmen,Apple Pay
+09/06/2025,Endesa,-48.86,Expense,Utilities,Utilities,Endesa,Google Pay
+16/04/2025,Mercadona,-49.1,Expense,Groceries,Groceries,Mercadona,Card
+10/02/2025,Viena,-49.4,Expense,Restaurant,Restaurant,Viena,Card
+06/03/2025,Mercadona,-49.81,Expense,Groceries,Groceries,Mercadona,Apple Pay
+19/01/2025,Apple App Store,-49.93,Expense,Entertainment,Entertainment,Apple App Store,Apple Pay
+26/03/2025,Casa Carmen,-50.27,Expense,Restaurant,Restaurant,Casa Carmen,Google Pay
+02/01/2025,Coolmod,-50.31,Expense,Online Purchase,Online Purchase,Coolmod,Google Pay
+25/03/2025,Bolt,-50.53,Expense,Transport,Transport,Bolt,Apple Pay
+10/06/2025,Steam,-50.79,Expense,Entertainment,Entertainment,Steam,Card
+11/04/2025,YouTube Premium,-51.08,Expense,Subscription,Subscription,YouTube Premium,Apple Pay
+29/05/2025,Coolmod,-51.15,Expense,Online Purchase,Online Purchase,Coolmod,Apple Pay
+07/01/2025,TMB Barcelona,-51.39,Expense,Transport,Transport,TMB Barcelona,Apple Pay
+23/03/2025,Espit Chupitos,-51.43,Expense,Bar,Bar,Espit Chupitos,Google Pay
+23/01/2025,Movistar,-51.52,Expense,Utilities,Utilities,Movistar,Card
+25/04/2025,O’Tacos,-51.58,Expense,Restaurant,Restaurant,O’Tacos,Card
+20/01/2025,Steam,-51.86,Expense,Entertainment,Entertainment,Steam,Apple Pay
+05/05/2025,Apple App Store,-51.93,Expense,Entertainment,Entertainment,Apple App Store,Google Pay
+26/01/2025,Dow Jones Bar,-51.99,Expense,Bar,Bar,Dow Jones Bar,Google Pay
+22/03/2025,Canva Pro,-52.27,Expense,Subscription,Subscription,Canva Pro,Apple Pay
+08/05/2025,Casa Carmen,-52.58,Expense,Restaurant,Restaurant,Casa Carmen,Apple Pay
+13/05/2025,Movistar,-52.73,Expense,Utilities,Utilities,Movistar,Google Pay
+31/01/2025,Movistar,-53,Expense,Utilities,Utilities,Movistar,Apple Pay
+26/05/2025,Luz de Gas,-53.18,Expense,Bar,Bar,Luz de Gas,Google Pay
+29/05/2025,Nevermind,-53.45,Expense,Bar,Bar,Nevermind,Card
+03/04/2025,Canva Pro,-53.84,Expense,Subscription,Subscription,Canva Pro,Card
+07/05/2025,Netflix,-53.97,Expense,Subscription,Subscription,Netflix,Card
+23/05/2025,Spotify,-54.51,Expense,Subscription,Subscription,Spotify,Apple Pay
+12/05/2025,Adobe,-54.71,Expense,Subscription,Subscription,Adobe,Apple Pay
+10/06/2025,Lidl,-54.73,Expense,Groceries,Groceries,Lidl,Google Pay
+23/05/2025,Amazon,-54.95,Expense,Online Purchase,Online Purchase,Amazon,Card
+11/03/2025,Google Play,-55.14,Expense,Entertainment,Entertainment,Google Play,Apple Pay
+31/03/2025,TMB Barcelona,-55.21,Expense,Transport,Transport,TMB Barcelona,Apple Pay
+15/01/2025,Steam,-55.33,Expense,Entertainment,Entertainment,Steam,Apple Pay
+03/01/2025,Reby,-55.36,Expense,Transport,Transport,Reby,Google Pay
+14/04/2025,AliExpress,-55.45,Expense,Online Purchase,Online Purchase,AliExpress,Apple Pay
+23/01/2025,Amazon,-55.84,Expense,Online Purchase,Online Purchase,Amazon,Card
+16/05/2025,Canva Pro,-56.14,Expense,Subscription,Subscription,Canva Pro,Card
+03/06/2025,Ginos,-56.52,Expense,Restaurant,Restaurant,Ginos,Google Pay
+07/02/2025,Nevermind,-56.52,Expense,Bar,Bar,Nevermind,Google Pay
+12/06/2025,Amazon,-56.66,Expense,Online Purchase,Online Purchase,Amazon,Apple Pay
+16/04/2025,Reby,-56.71,Expense,Transport,Transport,Reby,Google Pay
+29/05/2025,Endesa,-56.75,Expense,Utilities,Utilities,Endesa,Apple Pay
+03/06/2025,Mercadona,-56.88,Expense,Groceries,Groceries,Mercadona,Apple Pay
+13/03/2025,Bolt,-57.34,Expense,Transport,Transport,Bolt,Card
+19/04/2025,Canva Pro,-57.51,Expense,Subscription,Subscription,Canva Pro,Google Pay
+03/02/2025,AliExpress,-58.26,Expense,Online Purchase,Online Purchase,AliExpress,Google Pay
+13/06/2025,Endesa,-58.78,Expense,Utilities,Utilities,Endesa,Card
+24/03/2025,Movistar,-58.96,Expense,Utilities,Utilities,Movistar,Apple Pay
+26/05/2025,Dow Jones Bar,-59.49,Expense,Bar,Bar,Dow Jones Bar,Card
+10/01/2025,Endesa,-59.54,Expense,Utilities,Utilities,Endesa,Google Pay
+03/01/2025,Luz de Gas,-59.59,Expense,Bar,Bar,Luz de Gas,Apple Pay
+26/01/2025,Carrefour,-59.64,Expense,Groceries,Groceries,Carrefour,Google Pay
+28/05/2025,TMB Barcelona,-59.87,Expense,Transport,Transport,TMB Barcelona,Google Pay
+30/05/2025,Nevermind,-59.89,Expense,Bar,Bar,Nevermind,Apple Pay
