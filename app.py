@@ -39,7 +39,7 @@ def load_css():  # ✅ DEFINE FIRST
 
 # THEN CALL IT
 load_dotenv()
-st.set_page_config(...)
+st.set_page_config(page_title="Smart Transaction Viewer", layout="wide")
 load_css()
 
 # Load logo
