@@ -1,8 +1,8 @@
-body {
-    background-color: #0f1117;
+html, body, .stApp {
+    background-color: #0f1117 !important;
     color: #ffffff;
-    font-family: 'Segoe UI', sans-serif;
 }
+
 
 h1.title {
     font-size: 2.4rem;
