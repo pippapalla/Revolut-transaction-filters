@@ -28,12 +28,15 @@ h1.title {
 
 .transaction-label {
     font-size: 1rem;
+    color: #ffffff; /* bright white for visibility */
 }
 
 .transaction-amount {
     font-size: 1rem;
     font-weight: bold;
+    color: #ffffff; /* override fallback */
 }
+
 
 .transaction-info {
     display: flex;
