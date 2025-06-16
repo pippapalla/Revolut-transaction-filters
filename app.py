@@ -36,14 +36,12 @@ def get_ai_response(prompt, transactions, user_query):
 load_dotenv()
 
 st.set_page_config(page_title="Smart Transaction Viewer", layout="wide")
-
+load_css() 
 # Load CSS
 def load_css():
-    try:
-        with open("style.css") as f:
-            st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
-    except:
-        st.warning("⚠️ style.css not found.")
+    with open("style.css") as f:
+        st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
+
 
 # Load logo
 def get_logo_base64():
