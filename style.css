@@ -73,3 +73,20 @@ h1.title {
     pointer-events: none;
     width: 60%;
 }
+/* 🔷 Sidebar background - Revolut dark blue */
+section[data-testid="stSidebar"] {
+    background-color: #1b1d2a !important;  /* darker, sleek tone */
+}
+
+/* 🔷 Filter option tags (multiselect pills/buttons) */
+span[data-baseweb="tag"] {
+    background-color: #0051ff !important;  /* bright Revolut blue */
+    color: #ffffff !important;
+    font-weight: 500;
+    border-radius: 8px;
+}
+
+/* 🔷 Make sidebar header text white */
+.stSidebar .css-1v0mbdj, .stSidebar .css-qbe2hs {
+    color: white;
+}
