@@ -33,15 +33,14 @@ def get_ai_response(prompt, transactions, user_query):
 
 
 # Load environment
-load_dotenv()
-
-st.set_page_config(page_title="Smart Transaction Viewer", layout="wide")
-load_css() 
-# Load CSS
-def load_css():
+def load_css():  # ✅ DEFINE FIRST
     with open("style.css") as f:
         st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
+# THEN CALL IT
+load_dotenv()
+st.set_page_config(...)
+load_css()
 
 # Load logo
 def get_logo_base64():
